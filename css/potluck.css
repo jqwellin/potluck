@@ -119,7 +119,6 @@ padding-top:175px;
 }
 /*SOLUTION*/
 .solutioncontainer{
-  padding-top:100px;
   display:grid;
   grid-template-columns: 50% 50%;
 
@@ -148,13 +147,17 @@ padding-top:175px;
   padding-bottom: 125px;
 }
 /*IF YOURE*/
+.democontainer{
+  display: grid;
+ grid-template-columns: auto auto;
+}
 .ifyoure{
   background-color: #FFEAEA;
   color:#263067;
   font-weight: bold;
   text-align: left;
   padding-left: 100px;
-  padding-top: 150px;
+  padding-top: 175px;
   padding-bottom: 125px;
 }
 .ifyoureheader{
@@ -167,4 +170,12 @@ padding-top:175px;
 }
 .ifyouregif{
   padding-left: -10px;
+}
+.videodemo{
+  padding-right: 50px;
+  padding-top: 80px;
+  padding-bottom: 125px;
+}
+#video{
+  width: 300px;
 }
