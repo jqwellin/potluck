@@ -179,3 +179,44 @@ padding-top:175px;
 #video{
   width: 300px;
 }
+/*FEATURES*/
+
+.featurescontainer{
+  display:grid;
+  grid-template-columns: 45% 55%;
+}
+.featureswords{
+  background-color:#F85600;
+  color:#263067;
+  text-align: left;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 150px;
+  padding-bottom: 125px;
+}
+.featuresheaders{
+  font-size: 42px;
+  padding-left:15px;
+  padding-top:15px;
+
+}
+.featuresdescription{
+  font-size: 18px;
+  padding-left:30px;
+}
+.solutiontext{
+  font-size: 85px;
+  line-height: 80px;
+}
+.foodtext{
+  font-size: 80px;
+  line-height: 80px;
+  padding-bottom: 15px;
+}
+.featuresimage{
+  background-color: #263067;
+  color:#ffffff;
+  text-align: center;
+  padding-top: 125px;
+  padding-bottom: 100px;
+}
