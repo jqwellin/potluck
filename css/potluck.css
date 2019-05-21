@@ -90,7 +90,7 @@ a{
 padding-top:175px;
 }
 .introheader{
-  font-size: 80px;
+  font-size: 85px;
   color:#263067;
   font-weight: bold;
   padding:10px;
@@ -99,6 +99,7 @@ padding-top:175px;
   font-size: 20px;
   color:#263067;
   padding-top:10px;
+  padding-bottom:150px;
   font-weight: bold;
 }
 .introbutton{
@@ -177,7 +178,7 @@ padding-top:175px;
   padding-bottom: 125px;
 }
 #video{
-  width: 300px;
+  width: 275px;
 }
 /*FEATURES*/
 
@@ -189,8 +190,8 @@ padding-top:175px;
   background-color:#F85600;
   color:#263067;
   text-align: left;
-  padding-left: 100px;
-  padding-right: 50px;
+  padding-left: 75px;
+  padding-right: 75px;
   padding-top: 150px;
   padding-bottom: 125px;
 }
@@ -219,4 +220,7 @@ padding-top:175px;
   text-align: center;
   padding-top: 125px;
   padding-bottom: 100px;
+}
+#finalvideo{
+  max-width: 100%;
 }
